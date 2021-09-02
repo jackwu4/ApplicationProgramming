@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=In
+comment1.params=
+comment1.target=java.lang.String\ nextLine()
+comment2.params=
+comment2.target=char\ nextChar()
+comment3.params=
+comment3.target=char\ nextUpperChar()
+comment4.params=
+comment4.target=int\ nextInt()
+comment5.params=
+comment5.target=double\ nextDouble()
+numComments=6

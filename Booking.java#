@@ -1,0 +1,34 @@
+
+public class Booking
+{
+    private int id;
+    private Landscaper landscaper;
+    private Customer customer;
+    private Service service;
+    
+    public Booking(Landscaper landscaper, Customer customer, Service service, int id)
+    {
+       this.landscaper = landscaper;
+       this.customer = customer;
+       this.service = service;
+       this.id = id;
+    }
+    
+    public void show()
+    {
+        
+        landscaper.show();
+        customer.show();
+        service.show();
+        System.out.println("Bookings ");
+        System.out.println("\t" + toString() + "Landscaper: " + landscaper.getName() + " Customer: " + 
+        customer.getName() + " Service: " + service.getName() + " cost $" + service.getCost());
+    }
+    
+    public String toString()
+    {
+        return id + " ";
+    }
+   
+}
+

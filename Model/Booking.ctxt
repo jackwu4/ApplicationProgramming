@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Booking
+comment1.params=landscaper\ customer\ service\ id
+comment1.target=Booking(Landscaper,\ Customer,\ Service,\ int)
+comment2.params=
+comment2.target=java.lang.String\ show()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

@@ -1,0 +1,23 @@
+
+public class Customers extends Records
+{
+    
+
+    public Customers()
+    {
+        
+    }
+
+    public void add()
+    {
+        id++;
+        String name = readName("Please enter customer");
+        records.add(new Customer(id, name));
+        
+    }
+    
+    public Customer find(int id)
+    {
+        return (Customer)super.find(id);
+    }
+}

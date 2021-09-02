@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=SummaryPanel
+comment1.params=root
+comment1.target=SummaryPanel(Model.Root)
+comment2.params=
+comment2.target=void\ setup()
+comment3.params=
+comment3.target=void\ build()
+comment4.params=
+comment4.target=void\ update()
+numComments=5

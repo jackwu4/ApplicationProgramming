@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LandscaperPanel
+comment1.params=root
+comment1.target=LandscaperPanel(Model.Root)
+comment2.params=
+comment2.target=void\ build()
+comment3.params=
+comment3.target=void\ setup()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=void\ update()
+numComments=6

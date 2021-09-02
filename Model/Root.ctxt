@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Root
+comment1.params=landscapers\ customers\ services
+comment1.target=Root(Landscapers,\ Customers,\ Services)
+comment2.params=
+comment2.target=Landscapers\ landscapers()
+comment3.params=
+comment3.target=Customers\ customers()
+comment4.params=
+comment4.target=Services\ services()
+comment5.params=landscaperId\ customerId\ serviceId
+comment5.target=void\ booking(int,\ int,\ int)
+comment6.params=
+comment6.target=java.lang.String\ report()
+comment7.params=
+comment7.target=void\ exit()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

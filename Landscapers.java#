@@ -1,0 +1,23 @@
+
+public class Landscapers extends Records
+{
+    
+
+    public Landscapers()
+    {
+        
+    }
+
+    public void add()
+    {
+        id++;
+        String name = readName("Please enter landscaper");
+        records.add(new Landscaper(id, name));
+        
+    }
+    
+    public Landscaper find(int id)
+    {
+        return (Landscaper)super.find(id);
+    }
+}
